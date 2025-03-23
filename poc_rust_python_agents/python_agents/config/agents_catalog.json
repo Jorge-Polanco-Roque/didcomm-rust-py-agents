@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Agent1",
+      "did": "did:example:agent1",
+      "endpoint": "http://localhost:8000/messages",
+      "public_key": "ZmFrZV9wdWJsaWNfa2V5X2FnZW50MQ=="
+    },
+    {
+      "name": "Agent2",
+      "did": "did:example:agent2",
+      "endpoint": "http://localhost:8001/messages",
+      "public_key": "ZmFrZV9wdWJsaWNfa2V5X2FnZW50Mg=="
+    }
+  ]
+  

@@ -1,0 +1,11 @@
+/Users/A1064331/Desktop/Blockchain/Allem/test_01/poc_rust_python_agents/rustcore/target/debug/deps/libsalsa20-46adf2dacb6daa96.rmeta: /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.8.0/src/lib.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.8.0/src/core.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.8.0/src/rounds.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.8.0/src/salsa.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.8.0/src/xsalsa.rs
+
+/Users/A1064331/Desktop/Blockchain/Allem/test_01/poc_rust_python_agents/rustcore/target/debug/deps/libsalsa20-46adf2dacb6daa96.rlib: /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.8.0/src/lib.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.8.0/src/core.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.8.0/src/rounds.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.8.0/src/salsa.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.8.0/src/xsalsa.rs
+
+/Users/A1064331/Desktop/Blockchain/Allem/test_01/poc_rust_python_agents/rustcore/target/debug/deps/salsa20-46adf2dacb6daa96.d: /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.8.0/src/lib.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.8.0/src/core.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.8.0/src/rounds.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.8.0/src/salsa.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.8.0/src/xsalsa.rs
+
+/Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.8.0/src/lib.rs:
+/Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.8.0/src/core.rs:
+/Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.8.0/src/rounds.rs:
+/Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.8.0/src/salsa.rs:
+/Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.8.0/src/xsalsa.rs:
