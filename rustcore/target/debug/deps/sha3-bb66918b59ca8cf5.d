@@ -1,0 +1,11 @@
+/Users/A1064331/Desktop/Blockchain/Allem/test_01/poc_rust_python_agents/rustcore/target/debug/deps/libsha3-bb66918b59ca8cf5.rmeta: /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha3-0.9.1/src/lib.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha3-0.9.1/src/paddings.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha3-0.9.1/src/macros.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha3-0.9.1/src/reader.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha3-0.9.1/src/state.rs
+
+/Users/A1064331/Desktop/Blockchain/Allem/test_01/poc_rust_python_agents/rustcore/target/debug/deps/libsha3-bb66918b59ca8cf5.rlib: /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha3-0.9.1/src/lib.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha3-0.9.1/src/paddings.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha3-0.9.1/src/macros.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha3-0.9.1/src/reader.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha3-0.9.1/src/state.rs
+
+/Users/A1064331/Desktop/Blockchain/Allem/test_01/poc_rust_python_agents/rustcore/target/debug/deps/sha3-bb66918b59ca8cf5.d: /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha3-0.9.1/src/lib.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha3-0.9.1/src/paddings.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha3-0.9.1/src/macros.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha3-0.9.1/src/reader.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha3-0.9.1/src/state.rs
+
+/Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha3-0.9.1/src/lib.rs:
+/Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha3-0.9.1/src/paddings.rs:
+/Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha3-0.9.1/src/macros.rs:
+/Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha3-0.9.1/src/reader.rs:
+/Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha3-0.9.1/src/state.rs:

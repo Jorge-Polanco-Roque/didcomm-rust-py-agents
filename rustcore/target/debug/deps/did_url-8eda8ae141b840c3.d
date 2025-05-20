@@ -1,0 +1,11 @@
+/Users/A1064331/Desktop/Blockchain/Allem/test_01/poc_rust_python_agents/rustcore/target/debug/deps/libdid_url-8eda8ae141b840c3.rmeta: /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/did_url-0.1.0/src/lib.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/did_url-0.1.0/src/core.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/did_url-0.1.0/src/did.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/did_url-0.1.0/src/error.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/did_url-0.1.0/src/input.rs
+
+/Users/A1064331/Desktop/Blockchain/Allem/test_01/poc_rust_python_agents/rustcore/target/debug/deps/libdid_url-8eda8ae141b840c3.rlib: /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/did_url-0.1.0/src/lib.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/did_url-0.1.0/src/core.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/did_url-0.1.0/src/did.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/did_url-0.1.0/src/error.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/did_url-0.1.0/src/input.rs
+
+/Users/A1064331/Desktop/Blockchain/Allem/test_01/poc_rust_python_agents/rustcore/target/debug/deps/did_url-8eda8ae141b840c3.d: /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/did_url-0.1.0/src/lib.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/did_url-0.1.0/src/core.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/did_url-0.1.0/src/did.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/did_url-0.1.0/src/error.rs /Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/did_url-0.1.0/src/input.rs
+
+/Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/did_url-0.1.0/src/lib.rs:
+/Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/did_url-0.1.0/src/core.rs:
+/Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/did_url-0.1.0/src/did.rs:
+/Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/did_url-0.1.0/src/error.rs:
+/Users/A1064331/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/did_url-0.1.0/src/input.rs:

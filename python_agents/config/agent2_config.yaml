@@ -1,0 +1,6 @@
+port: 8001
+rustcore_url: "http://localhost:3000"
+agent1_endpoint: "http://localhost:8000/messages"
+did: "did:key:z6MkmDkti6WsQqRLeY9BgKdF61hbV9qncAiZFv3jysnsAZ1t"
+key_path: "keys/agent2.key"
+recipient_did: "did:key:z6Mkw8NrAshhXaY67KSL5Kaedf5qPLVUPEB3ntnZDJXytAgZ"
